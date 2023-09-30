@@ -1,0 +1,51 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLXgiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE4IDZsLTEyIDEyIiAvPjxwYXRoIGQ9Ik02IDZsMTIgMTIiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "x",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLXhib3gtYSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTIgMjFhOSA5IDAgMCAwIDkgLTlhOSA5IDAgMCAwIC05IC05YTkgOSAwIDAgMCAtOSA5YTkgOSAwIDAgMCA5IDl6IiAvPjxwYXRoIGQ9Ik0xNSAxNmwtMyAtOGwtMyA4IiAvPjxwYXRoIGQ9Ik0xNCAxNGgtNCIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "xbox-a",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLXhib3gtYiIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTIgMjFhOSA5IDAgMCAwIDkgLTlhOSA5IDAgMCAwIC05IC05YTkgOSAwIDAgMCAtOSA5YTkgOSAwIDAgMCA5IDl6IiAvPjxwYXRoIGQ9Ik0xMyAxMmEyIDIgMCAxIDEgMCA0aC0zdi00IiAvPjxwYXRoIGQ9Ik0xMyAxMmgtMyIgLz48cGF0aCBkPSJNMTMgMTJhMiAyIDAgMSAwIDAgLTRoLTN2NCIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "xbox-b",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLXhib3gteCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTIgMjFhOSA5IDAgMCAwIDkgLTlhOSA5IDAgMCAwIC05IC05YTkgOSAwIDAgMCAtOSA5YTkgOSAwIDAgMCA5IDl6IiAvPjxwYXRoIGQ9Ik05IDhsNiA4IiAvPjxwYXRoIGQ9Ik0xNSA4bC02IDgiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "xbox-x",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLXhib3gteSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTIgMjFhOSA5IDAgMCAwIDkgLTlhOSA5IDAgMCAwIC05IC05YTkgOSAwIDAgMCAtOSA5YTkgOSAwIDAgMCA5IDl6IiAvPjxwYXRoIGQ9Ik05IDhsMyA0IiAvPjxwYXRoIGQ9Ik0xNSA4bC0yLjk4OCAzLjk4NGwtLjAxMiA0LjAxNiIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "xbox-y",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLXhkIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik02IDhsNCA4IiAvPjxwYXRoIGQ9Ik02IDE2bDQgLTgiIC8+PHBhdGggZD0iTTE0IDh2OGgyYTIgMiAwIDAgMCAyIC0ydi00YTIgMiAwIDAgMCAtMiAtMmgtMnoiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "xd",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLXh4eCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTAgOGw0IDgiIC8+PHBhdGggZD0iTTEwIDE2bDQgLTgiIC8+PHBhdGggZD0iTTE3IDhsNCA4IiAvPjxwYXRoIGQ9Ik0xNyAxNmw0IC04IiAvPjxwYXRoIGQ9Ik0zIDhsNCA4IiAvPjxwYXRoIGQ9Ik0zIDE2bDQgLTgiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "xxx",
+    "aspect": "fixed"
+  }
+]</mxlibrary>

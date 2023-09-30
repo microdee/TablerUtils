@@ -10,10 +10,10 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/bin/Debug/net7.0/TablerUtils.dll",
+            "program": "${workspaceFolder}/src/bin/Debug/net7.0/TablerUtils.dll",
             "args": ["DrawIO",
-                "-i", "D:\\projects\\personal\\TablerUtils\\Work\\svg",
-                "-o", "D:\\projects\\personal\\TablerUtils\\Work\\Out",
+                "-i", "D:\\projects\\personal\\TablerUtils\\svg",
+                "-o", "D:\\projects\\personal\\TablerUtils\\rendered\\1.25\\DrawIO",
                 "-s", "1.25"
             ],
             "cwd": "${workspaceFolder}",

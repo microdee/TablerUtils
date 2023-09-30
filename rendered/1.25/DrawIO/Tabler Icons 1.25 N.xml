@@ -1,0 +1,443 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tYm9sdCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTYuNTU5IDEyLjg4MmwtNC41NTkgLTkuODgybC03Ljk3IDE3LjI3NWMtLjA3IC4yIC0uMDE3IC40MjQgLjEzNSAuNTcyYy4xNSAuMTQ4IC4zNzQgLjE5MyAuNTcgLjExNmw3LjI2NSAtMi40NjNsMS4wMzYgLjM1MSIgLz48cGF0aCBkPSJNMTkgMTZsLTIgM2g0bC0yIDMiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-bolt",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tY2FuY2VsIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNi4zNzEgMTIuNDc2bC00LjM3MSAtOS40NzZsLTcuOTcgMTcuMjc1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDcuMjY1IC0yLjQ2MyIgLz48cGF0aCBkPSJNMTkgMTltLTMgMGEzIDMgMCAxIDAgNiAwYTMgMyAwIDEgMCAtNiAwIiAvPjxwYXRoIGQ9Ik0xNyAyMWw0IC00IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-cancel",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tY2hlY2siIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE3LjQ4NyAxNC44OTRsLTUuNDg3IC0xMS44OTRsLTcuOTcgMTcuMjc1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDYuMjc1IC0yLjEyNyIgLz48cGF0aCBkPSJNMTUgMTlsMiAybDQgLTQiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-check",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tY29kZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTYuNjUzIDEzLjA4NmwtNC42NTMgLTEwLjA4NmwtNy45NyAxNy4yNzVjLS4wNyAuMiAtLjAxNyAuNDI0IC4xMzUgLjU3MmMuMTUgLjE0OCAuMzc0IC4xOTMgLjU3IC4xMTZsNi4yNDYgLTIuMTE3IiAvPjxwYXRoIGQ9Ik0yMCAyMWwyIC0ybC0yIC0yIiAvPjxwYXRoIGQ9Ik0xNyAxN2wtMiAybDIgMiIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-code",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tY29nIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNi4zODcgMTIuNTFsLTQuMzg3IC05LjUxbC03Ljk3IDE3LjI3NWMtLjA3IC4yIC0uMDE3IC40MjQgLjEzNSAuNTcyYy4xNSAuMTQ4IC4zNzQgLjE5MyAuNTcgLjExNmw3LjI2NSAtMi40NjMiIC8+PHBhdGggZD0iTTE5LjAwMSAxOW0tMiAwYTIgMiAwIDEgMCA0IDBhMiAyIDAgMSAwIC00IDAiIC8+PHBhdGggZD0iTTE5LjAwMSAxNS41djEuNSIgLz48cGF0aCBkPSJNMTkuMDAxIDIxdjEuNSIgLz48cGF0aCBkPSJNMjIuMDMyIDE3LjI1bC0xLjI5OSAuNzUiIC8+PHBhdGggZD0iTTE3LjI3IDIwbC0xLjMgLjc1IiAvPjxwYXRoIGQ9Ik0xNS45NyAxNy4yNWwxLjMgLjc1IiAvPjxwYXRoIGQ9Ik0yMC43MzMgMjBsMS4zIC43NSIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-cog",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tZGlzY291bnQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE2LjQzIDEyLjYwM2wtNC40MyAtOS42MDNsLTcuOTcgMTcuMjc1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDcuMjY1IC0yLjQ2M2wxLjI3MiAuNDMxIiAvPjxwYXRoIGQ9Ik0xNiAyMWw1IC01IiAvPjxwYXRoIGQ9Ik0yMSAyMXYuMDEiIC8+PHBhdGggZD0iTTE2IDE2di4wMSIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-discount",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tZG9sbGFyIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNS45NDUgMTEuNTUxbC0zLjk0NSAtOC41NTFsLTcuOTcgMTcuMjc1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDcuMjY1IC0yLjQ2M2wxLjU5NCAuNTQiIC8+PHBhdGggZD0iTTIxIDE1aC0yLjVhMS41IDEuNSAwIDAgMCAwIDNoMWExLjUgMS41IDAgMCAxIDAgM2gtMi41IiAvPjxwYXRoIGQ9Ik0xOSAyMXYxbTAgLTh2MSIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-dollar",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tZG93biIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTYuNTI4IDEyLjgxNWwtNC41MjggLTkuODE1bC03Ljk3IDE3LjI3NWMtLjA3IC4yIC0uMDE3IC40MjQgLjEzNSAuNTcyYy4xNSAuMTQ4IC4zNzQgLjE5MyAuNTcgLjExNmw3LjI2NSAtMi40NjMiIC8+PHBhdGggZD0iTTE5IDE2djYiIC8+PHBhdGggZD0iTTIyIDE5bC0zIDNsLTMgLTMiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-down",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tZWFzdCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTQgM2gtNHY2aDQiIC8+PHBhdGggZD0iTTEwIDZoMi41IiAvPjxwYXRoIGQ9Ik0xNiAyMWwtNCAtOGwtNCA4bDQgLTJ6IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-east",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tZXhjbGFtYXRpb24iIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE2LjUzNSAxMi44MzJsLTQuNTM1IC05LjgzMmwtNy45NyAxNy4yNzVjLS4wNyAuMiAtLjAxNyAuNDI0IC4xMzUgLjU3MmMuMTUgLjE0OCAuMzc0IC4xOTMgLjU3IC4xMTZsNy4yNjUgLTIuNDYzYzEuMzggLjQ2OCAyLjQxNiAuODIgMy4xMDcgMS4wNTMiIC8+PHBhdGggZD0iTTE5IDE2djMiIC8+PHBhdGggZD0iTTE5IDIydi4wMSIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-exclamation",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tZmlsbGVkIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xMS4wOTIgMi41ODFhMSAxIDAgMCAxIDEuNzU0IC0uMTE2bC4wNjIgLjExNmw4LjAwNSAxNy4zNjVjLjE5OCAuNTY2IC4wNSAxLjE5NiAtLjM3OCAxLjYxNWExLjUzIDEuNTMgMCAwIDEgLTEuNDU5IC4zOTNsLTcuMDc3IC0yLjM5OGwtNi44OTkgMi4zMzhhMS41MzUgMS41MzUgMCAwIDEgLTEuNTIgLS4yMzFsLS4xMTIgLS4xYy0uMzk4IC0uMzg2IC0uNTU2IC0uOTU0IC0uMzkzIC0xLjU1NmwuMDQ3IC0uMTVsNy45NyAtMTcuMjc2eiIgc3Ryb2tlLXdpZHRoPSIwIiBmaWxsPSIjRkZGRkZGIiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-filled",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24taGVhcnQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE1LjcyMSAxMS4wNjdsLTMuNzIxIC04LjA2N2wtNy45NyAxNy4yNzVjLS4wNyAuMiAtLjAxNyAuNDI0IC4xMzUgLjU3MmMuMTUgLjE0OCAuMzc0IC4xOTMgLjU3IC4xMTZsNS42MTQgLTEuOTAzIiAvPjxwYXRoIGQ9Ik0xOCAyMmwzLjM1IC0zLjI4NGEyLjE0MyAyLjE0MyAwIDAgMCAuMDA1IC0zLjA3MWEyLjI0MiAyLjI0MiAwIDAgMCAtMy4xMjkgLS4wMDZsLS4yMjQgLjIybC0uMjIzIC0uMjJhMi4yNDIgMi4yNDIgMCAwIDAgLTMuMTI4IC0uMDA2YTIuMTQzIDIuMTQzIDAgMCAwIC0uMDA2IDMuMDcxbDMuMzU1IDMuMjk2eiIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-heart",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tbWludXMiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE3LjUgMTVjLTEuMjMyIC0yLjY3IC0zLjA2NSAtNi42NyAtNS41IC0xMmwtNy45NyAxNy4yNzVjLS4wNyAuMiAtLjAxNyAuNDI0IC4xMzUgLjU3MmMuMTUgLjE0OCAuMzc0IC4xOTMgLjU3IC4xMTZsNy4yNjUgLTIuNDYzIiAvPjxwYXRoIGQ9Ik0xNiAxOWg2IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-minus",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tbm9ydGgiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE2IDIxbC00IC04bC00IDhsNCAtMnoiIC8+PHBhdGggZD0iTTEwIDl2LTZsNCA2di02IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-north",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tb2ZmIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNi4yOCAxMi4yOGMtLjk1IC0yLjA2NCAtMi4zNzcgLTUuMTU3IC00LjI4IC05LjI4Yy0uNyAxLjUxNSAtMS4yMjMgMi42NTIgLTEuNTczIDMuNDFtLTEuMjcgMi43NWMtLjg4MiAxLjkxMyAtMi41OSA1LjYxOCAtNS4xMjcgMTEuMTE1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDcuMjY1IC0yLjQ2M2w3LjI2NSAyLjQ2M2MuMTk2IC4wNzcgLjQyIC4wMzIgLjU3IC0uMTE2YS41NDggLjU0OCAwIDAgMCAuMTM0IC0uNTcybC0uMjYgLS41NjMiIC8+PHBhdGggZD0iTTMgM2wxOCAxOCIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-off",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tcGF1c2UiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE2LjY2NiAxMy4xMTRsLTQuNjY2IC0xMC4xMTRsLTcuOTcgMTcuMjc1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDcuMjY1IC0yLjQ2M2wxLjA1NiAuMzU4IiAvPjxwYXRoIGQ9Ik0xNyAxN3Y1IiAvPjxwYXRoIGQ9Ik0yMSAxN3Y1IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-pause",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tcGluIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNi4wMDIgMTEuNjc2bC00LjAwMiAtOC42NzZsLTcuOTcgMTcuMjc1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDcuMjY1IC0yLjQ2MyIgLz48cGF0aCBkPSJNMjEuMTIxIDIwLjEyMWEzIDMgMCAxIDAgLTQuMjQyIDBjLjQxOCAuNDE5IDEuMTI1IDEuMDQ1IDIuMTIxIDEuODc5YzEuMDUxIC0uODkgMS43NTkgLTEuNTE2IDIuMTIxIC0xLjg3OXoiIC8+PHBhdGggZD0iTTE5IDE4di4wMSIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-pin",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tcGx1cyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTYuNTczIDEyLjkxNGwtNC41NzMgLTkuOTE0bC03Ljk3IDE3LjI3NWMtLjA3IC4yIC0uMDE3IC40MjQgLjEzNSAuNTcyYy4xNSAuMTQ4IC4zNzQgLjE5MyAuNTcgLjExNmw3LjI2NSAtMi40NjMiIC8+PHBhdGggZD0iTTE2IDE5aDYiIC8+PHBhdGggZD0iTTE5IDE2djYiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-plus",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tcXVlc3Rpb24iIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE2LjA4MSAxMS44NDdsLTQuMDgxIC04Ljg0N2wtNy45NyAxNy4yNzVjLS4wNyAuMiAtLjAxNyAuNDI0IC4xMzUgLjU3MmMuMTUgLjE0OCAuMzc0IC4xOTMgLjU3IC4xMTZsNy4yNjUgLTIuNDYzYzEuMzUgLjQ1OCAyLjM2MiAuOCAzLjAzNyAxLjAzIiAvPjxwYXRoIGQ9Ik0xOSAyMnYuMDEiIC8+PHBhdGggZD0iTTE5IDE5YTIuMDAzIDIuMDAzIDAgMCAwIC45MTQgLTMuNzgyYTEuOTggMS45OCAwIDAgMCAtMi40MTQgLjQ4MyIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-question",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tc2VhcmNoIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNS44NzYgMTEuNDAzbC0zLjg3NiAtOC40MDNsLTcuOTcgMTcuMjc1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDYuMjkgLTIuMTMyIiAvPjxwYXRoIGQ9Ik0xOCAxOG0tMyAwYTMgMyAwIDEgMCA2IDBhMyAzIDAgMSAwIC02IDAiIC8+PHBhdGggZD0iTTIwLjIgMjAuMmwxLjggMS44IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-search",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tc2hhcmUiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE2LjYzMyAxMy4wNDNsLTQuNjMzIC0xMC4wNDNsLTcuOTcgMTcuMjc1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDcuMjY1IC0yLjQ2M2wuOTU1IC4zMjQiIC8+PHBhdGggZD0iTTE2IDIybDUgLTUiIC8+PHBhdGggZD0iTTIxIDIxLjV2LTQuNWgtNC41IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-share",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tc291dGgiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTEwIDguMjVjMCAuNDE0IC4zMzYgLjc1IC43NSAuNzVoMi4yNWExIDEgMCAwIDAgMSAtMXYtMWExIDEgMCAwIDAgLTEgLTFoLTJhMSAxIDAgMCAxIC0xIC0xdi0xYTEgMSAwIDAgMSAxIC0xaDIuMjVhLjc1IC43NSAwIDAgMSAuNzUgLjc1IiAvPjxwYXRoIGQ9Ik0xNiAyMWwtNCAtOGwtNCA4bDQgLTJ6IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-south",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tc3RhciIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTUuNTc0IDEwLjc0N2wtMy41NzQgLTcuNzQ3bC03Ljk3IDE3LjI3NWMtLjA3IC4yIC0uMDE3IC40MjQgLjEzNSAuNTcyYy4xNSAuMTQ4IC4zNzQgLjE5MyAuNTcgLjExNmw1LjQ1NCAtMS44NSIgLz48cGF0aCBkPSJNMTcuOCAyMC44MTdsLTIuMTcyIDEuMTM4YS4zOTIgLjM5MiAwIDAgMSAtLjU2OCAtLjQxbC40MTUgLTIuNDExbC0xLjc1NyAtMS43MDdhLjM4OSAuMzg5IDAgMCAxIC4yMTcgLS42NjVsMi40MjggLS4zNTJsMS4wODYgLTIuMTkzYS4zOTIgLjM5MiAwIDAgMSAuNzAyIDBsMS4wODYgMi4xOTNsMi40MjggLjM1MmEuMzkgLjM5IDAgMCAxIC4yMTcgLjY2NWwtMS43NTcgMS43MDdsLjQxNCAyLjQxYS4zOSAuMzkgMCAwIDEgLS41NjcgLjQxMWwtMi4xNzIgLTEuMTM4eiIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-star",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tdG9wIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNi41NCAxOS45NzdhLjM0IC4zNCAwIDAgMCAuMzU3IC0uMDdhLjMzIC4zMyAwIDAgMCAuMDg0IC0uMzVsLTQuOTgxIC0xMC41NTdsLTQuOTgyIDEwLjU1N2EuMzMgLjMzIDAgMCAwIC4wODQgLjM1YS4zNCAuMzQgMCAwIDAgLjM1NyAuMDdsNC41NDEgLTEuNDc3bDQuNTQgMS40Nzd6IiAvPjxwYXRoIGQ9Ik0xMiAzdjIiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-top",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24tdXAiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE2LjU0IDEyLjg0M2wtNC41NCAtOS44NDNsLTcuOTcgMTcuMjc1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDcuMjY1IC0yLjQ2MyIgLz48cGF0aCBkPSJNMTkgMjJ2LTYiIC8+PHBhdGggZD0iTTIyIDE5bC0zIC0zbC0zIDMiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-up",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24td2VzdCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNOSAzbDEgNmwyIC0zLjc1bDIgMy43NWwxIC02IiAvPjxwYXRoIGQ9Ik0xNiAyMWwtNCAtOGwtNCA4bDQgLTJ6IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-west",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24teCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTYuNjIyIDEzLjAybC00LjYyMiAtMTAuMDJsLTcuOTcgMTcuMjc1Yy0uMDcgLjIgLS4wMTcgLjQyNCAuMTM1IC41NzJjLjE1IC4xNDggLjM3NCAuMTkzIC41NyAuMTE2bDcuMjY1IC0yLjQ2M2wxLjU2MyAuNTMiIC8+PHBhdGggZD0iTTIyIDIybC01IC01IiAvPjxwYXRoIGQ9Ik0xNyAyMmw1IC01IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation-x",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5hdmlnYXRpb24iIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTEyIDE4LjVsNy4yNjUgMi40NjNjLjE5NiAuMDc3IC40MiAuMDMyIC41NyAtLjExNmEuNTQ4IC41NDggMCAwIDAgLjEzNCAtLjU3MmwtNy45NjkgLTE3LjI3NWwtNy45NyAxNy4yNzVjLS4wNyAuMiAtLjAxNyAuNDI0IC4xMzUgLjU3MmMuMTUgLjE0OCAuMzc0IC4xOTMgLjU3IC4xMTZsNy4yNjUgLTIuNDYzIiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "navigation",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5lZWRsZS10aHJlYWQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTMgMjFjLS42NjcgLS42NjcgMy4yNjIgLTYuMjM2IDExLjc4NSAtMTYuNzA5YTMuNSAzLjUgMCAxIDEgNS4wNzggNC43OTFjLTEwLjU3NSA4LjYxMiAtMTYuMTk2IDEyLjU4NSAtMTYuODYzIDExLjkxOHoiIC8+PHBhdGggZD0iTTE3LjUgNi41bC0xIDEiIC8+PHBhdGggZD0iTTE3IDdjLTIuMzMzIC0yLjY2NyAtMy41IC00IC01IC00cy0yIDEgLTIgMmMwIDQgOC4xNjEgOC40MDYgNiAxMWMtMS4wNTYgMS4yNjggLTMuMzYzIDEuMjg1IC01Ljc1IC44MDgiIC8+PHBhdGggZD0iTTUuNzM5IDE1LjQyNWMtMS4zOTMgLS41NjUgLTMuNzM5IC0xLjkyNSAtMy43MzkgLTMuNDI1IiAvPjxwYXRoIGQ9Ik0xOS41IDkuNWwxLjUgMS41IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "needle-thread",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5lZWRsZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMyAyMWMtLjY2NyAtLjY2NyAzLjI2MiAtNi4yMzYgMTEuNzg1IC0xNi43MDlhMy41IDMuNSAwIDEgMSA1LjA3OCA0Ljc5MWMtMTAuNTc1IDguNjEyIC0xNi4xOTYgMTIuNTg1IC0xNi44NjMgMTEuOTE4eiIgLz48cGF0aCBkPSJNMTcuNSA2LjVsLTEgMSIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "needle",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5ldHdvcmstb2ZmIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik02LjUyOCA2LjUzNmE2IDYgMCAwIDAgNy45NDIgNy45MzNtMi4yNDcgLTEuNzZhNiA2IDAgMCAwIC04LjQyNyAtOC40MjUiIC8+PHBhdGggZD0iTTEyIDNjMS4zMzMgLjMzMyAyIDIuMzMzIDIgNmMwIC4zMzcgLS4wMDYgLjY2IC0uMDE3IC45NjhtLS41NSAzLjQ3M2MtLjMzMyAuODg0IC0uODEgMS40MDMgLTEuNDMzIDEuNTU5IiAvPjxwYXRoIGQ9Ik0xMiAzYy0uOTM2IC4yMzQgLTEuNTQ0IDEuMjkgLTEuODIyIDMuMTY3bS0uMTYgMy44MzhjLjExNiAzLjAyOSAuNzc2IDQuNjk1IDEuOTgyIDQuOTk1IiAvPjxwYXRoIGQ9Ik02IDloM200IDBoNSIgLz48cGF0aCBkPSJNMyAyMGg3IiAvPjxwYXRoIGQ9Ik0xNCAyMGg3IiAvPjxwYXRoIGQ9Ik0xMCAyMGEyIDIgMCAxIDAgNCAwYTIgMiAwIDAgMCAtNCAwIiAvPjxwYXRoIGQ9Ik0xMiAxNXYzIiAvPjxwYXRoIGQ9Ik0zIDNsMTggMTgiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "network-off",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5ldHdvcmsiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTYgOWE2IDYgMCAxIDAgMTIgMGE2IDYgMCAwIDAgLTEyIDAiIC8+PHBhdGggZD0iTTEyIDNjMS4zMzMgLjMzMyAyIDIuMzMzIDIgNnMtLjY2NyA1LjY2NyAtMiA2IiAvPjxwYXRoIGQ9Ik0xMiAzYy0xLjMzMyAuMzMzIC0yIDIuMzMzIC0yIDZzLjY2NyA1LjY2NyAyIDYiIC8+PHBhdGggZD0iTTYgOWgxMiIgLz48cGF0aCBkPSJNMyAyMGg3IiAvPjxwYXRoIGQ9Ik0xNCAyMGg3IiAvPjxwYXRoIGQ9Ik0xMCAyMGEyIDIgMCAxIDAgNCAwYTIgMiAwIDAgMCAtNCAwIiAvPjxwYXRoIGQ9Ik0xMiAxNXYzIiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "network",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5ldy1zZWN0aW9uIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik05IDEybDYgMCIgLz48cGF0aCBkPSJNMTIgOWwwIDYiIC8+PHBhdGggZD0iTTQgNnYtMWExIDEgMCAwIDEgMSAtMWgxbTUgMGgybTUgMGgxYTEgMSAwIDAgMSAxIDF2MW0wIDV2Mm0wIDV2MWExIDEgMCAwIDEgLTEgMWgtMW0tNSAwaC0ybS01IDBoLTFhMSAxIDAgMCAxIC0xIC0xdi0xbTAgLTV2LTJtMCAtNSIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "new-section",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5ld3Mtb2ZmIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNiA2aDNhMSAxIDAgMCAxIDEgMXY5bS0uNjA2IDMuNDM1YTIgMiAwIDAgMSAtMy4zOTQgLTEuNDM1di0ybTAgLTR2LTdhMSAxIDAgMCAwIC0xIC0xaC03bS0zLjczNSAuMzIxYTEgMSAwIDAgMCAtLjI2NSAuNjc5djEyYTMgMyAwIDAgMCAzIDNoMTEiIC8+PHBhdGggZD0iTTggMTJoNCIgLz48cGF0aCBkPSJNOCAxNmg0IiAvPjxwYXRoIGQ9Ik0zIDNsMTggMTgiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "news-off",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5ld3MiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE2IDZoM2ExIDEgMCAwIDEgMSAxdjExYTIgMiAwIDAgMSAtNCAwdi0xM2ExIDEgMCAwIDAgLTEgLTFoLTEwYTEgMSAwIDAgMCAtMSAxdjEyYTMgMyAwIDAgMCAzIDNoMTEiIC8+PHBhdGggZD0iTTggOGw0IDAiIC8+PHBhdGggZD0iTTggMTJsNCAwIiAvPjxwYXRoIGQ9Ik04IDE2bDQgMCIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "news",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5mYy1vZmYiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTExIDIwYTMgMyAwIDAgMSAtMyAtM3YtOSIgLz48cGF0aCBkPSJNMTMgNGEzIDMgMCAwIDEgMyAzdjVtMCA0djJsLTUgLTUiIC8+PHBhdGggZD0iTTggNGg5YTMgMyAwIDAgMSAzIDN2OW0tLjg3MyAzLjExNmEyLjk5IDIuOTkgMCAwIDEgLTIuMTI3IC44ODRoLTEwYTMgMyAwIDAgMSAtMyAtM3YtMTBjMCAtLjgzIC4zMzcgLTEuNTgyIC44ODIgLTIuMTI1IiAvPjxwYXRoIGQ9Ik0zIDNsMTggMTgiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "nfc-off",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5mYyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTEgMjBhMyAzIDAgMCAxIC0zIC0zdi0xMWw1IDUiIC8+PHBhdGggZD0iTTEzIDRhMyAzIDAgMCAxIDMgM3YxMWwtNSAtNSIgLz48cGF0aCBkPSJNNCA0bTAgM2EzIDMgMCAwIDEgMyAtM2gxMGEzIDMgMCAwIDEgMyAzdjEwYTMgMyAwIDAgMSAtMyAzaC0xMGEzIDMgMCAwIDEgLTMgLTN6IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "nfc",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vLWNvcHlyaWdodCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTIgMTJtLTkgMGE5IDkgMCAxIDAgMTggMGE5IDkgMCAxIDAgLTE4IDAiIC8+PHBhdGggZD0iTTE0IDkuNzVhMy4wMTYgMy4wMTYgMCAwIDAgLTQuMTYzIC4xNzNhMi45OTMgMi45OTMgMCAwIDAgMCA0LjE1NGEzLjAxNiAzLjAxNiAwIDAgMCA0LjE2MyAuMTczIiAvPjxwYXRoIGQ9Ik02IDZsMS41IDEuNSIgLz48cGF0aCBkPSJNMTYuNSAxNi41bDEuNSAxLjUiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "no-copyright",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vLWNyZWF0aXZlLWNvbW1vbnMiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTEyIDEybS05IDBhOSA5IDAgMSAwIDE4IDBhOSA5IDAgMSAwIC0xOCAwIiAvPjxwYXRoIGQ9Ik0xMC41IDEwLjVjLS44NDcgLS43MSAtMi4xMzIgLS42NTggLTIuOTE0IC4xMTZhMS45MjggMS45MjggMCAwIDAgMCAyLjc2OGMuNzgyIC43NzQgMi4wNjcgLjgyNSAyLjkxNCAuMTE2IiAvPjxwYXRoIGQ9Ik0xNi41IDEwLjVjLS44NDcgLS43MSAtMi4xMzIgLS42NTggLTIuOTE0IC4xMTZhMS45MjggMS45MjggMCAwIDAgMCAyLjc2OGMuNzgyIC43NzQgMi4wNjcgLjgyNSAyLjkxNCAuMTE2IiAvPjxwYXRoIGQ9Ik02IDZsMS41IDEuNSIgLz48cGF0aCBkPSJNMTYuNSAxNi41bDEuNSAxLjUiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "no-creative-commons",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vLWRlcml2YXRpdmVzIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xMiAxMm0tOSAwYTkgOSAwIDEgMCAxOCAwYTkgOSAwIDEgMCAtMTggMCIgLz48cGF0aCBkPSJNOSAxMGg2IiAvPjxwYXRoIGQ9Ik05IDE0aDYiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "no-derivatives",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vcnRoLXN0YXIiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTMgMTJoMTgiIC8+PHBhdGggZD0iTTEyIDIxdi0xOCIgLz48cGF0aCBkPSJNNy41IDcuNWw5IDkiIC8+PHBhdGggZD0iTTcuNSAxNi41bDkgLTkiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "north-star",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vdGUtb2ZmIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xMyAyMGwzLjUwNSAtMy41MDVtMiAtMmwxLjUwMSAtMS41MDEiIC8+PHBhdGggZD0iTTE3IDEzaDN2LTdhMiAyIDAgMCAwIC0yIC0yaC0xMG0tMy40MjcgLjZjLS4zNTUgLjM2IC0uNTczIC44NTMgLS41NzMgMS40djEyYTIgMiAwIDAgMCAyIDJoN3YtNmMwIC0uMjcyIC4xMDkgLS41MTkgLjI4NSAtLjY5OSIgLz48cGF0aCBkPSJNMyAzbDE4IDE4IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "note-off",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vdGUiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTEzIDIwbDcgLTciIC8+PHBhdGggZD0iTTEzIDIwdi02YTEgMSAwIDAgMSAxIC0xaDZ2LTdhMiAyIDAgMCAwIC0yIC0yaC0xMmEyIDIgMCAwIDAgLTIgMnYxMmEyIDIgMCAwIDAgMiAyaDciIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "note",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vdGVib29rLW9mZiIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNOCA0aDlhMiAyIDAgMCAxIDIgMnY5bS0uMTc5IDMuODI4YTIgMiAwIDAgMSAtMS44MjEgMS4xNzJoLTExYTEgMSAwIDAgMSAtMSAtMXYtMTRtNCAtMXYxbTAgNHYxMyIgLz48cGF0aCBkPSJNMTMgOGgyIiAvPjxwYXRoIGQ9Ik0zIDNsMTggMTgiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "notebook-off",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vdGVib29rIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik02IDRoMTFhMiAyIDAgMCAxIDIgMnYxMmEyIDIgMCAwIDEgLTIgMmgtMTFhMSAxIDAgMCAxIC0xIC0xdi0xNGExIDEgMCAwIDEgMSAtMW0zIDB2MTgiIC8+PHBhdGggZD0iTTEzIDhsMiAwIiAvPjxwYXRoIGQ9Ik0xMyAxMmwyIDAiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "notebook",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vdGVzLW9mZiIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNNyAzaDEwYTIgMiAwIDAgMSAyIDJ2MTBtMCA0YTIgMiAwIDAgMSAtMiAyaC0xMGEyIDIgMCAwIDEgLTIgLTJ2LTE0IiAvPjxwYXRoIGQ9Ik0xMSA3aDQiIC8+PHBhdGggZD0iTTkgMTFoMiIgLz48cGF0aCBkPSJNOSAxNWg0IiAvPjxwYXRoIGQ9Ik0zIDNsMTggMTgiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "notes-off",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vdGVzIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik01IDNtMCAyYTIgMiAwIDAgMSAyIC0yaDEwYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxIC0yIDJoLTEwYTIgMiAwIDAgMSAtMiAtMnoiIC8+PHBhdGggZD0iTTkgN2w2IDAiIC8+PHBhdGggZD0iTTkgMTFsNiAwIiAvPjxwYXRoIGQ9Ik05IDE1bDQgMCIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "notes",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vdGlmaWNhdGlvbi1vZmYiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTYuMTU0IDYuMTg3YTIgMiAwIDAgMCAtMS4xNTQgMS44MTN2OWEyIDIgMCAwIDAgMiAyaDlhMiAyIDAgMCAwIDEuODExIC0xLjE1MSIgLz48cGF0aCBkPSJNMTcgN20tMyAwYTMgMyAwIDEgMCA2IDBhMyAzIDAgMSAwIC02IDAiIC8+PHBhdGggZD0iTTMgM2wxOCAxOCIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "notification-off",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW5vdGlmaWNhdGlvbiIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTAgNmgtM2EyIDIgMCAwIDAgLTIgMnY5YTIgMiAwIDAgMCAyIDJoOWEyIDIgMCAwIDAgMiAtMnYtMyIgLz48cGF0aCBkPSJNMTcgN20tMyAwYTMgMyAwIDEgMCA2IDBhMyAzIDAgMSAwIC02IDAiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "notification",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlci0wIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNiAxNnYtOCIgLz48cGF0aCBkPSJNMTIgMjBhNCA0IDAgMCAwIDQgLTR2LThhNCA0IDAgMSAwIC04IDB2OGE0IDQgMCAwIDAgNCA0eiIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number-0",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlci0xIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xMyAyMHYtMTZsLTUgNSIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number-1",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlci0yIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik04IDhhNCA0IDAgMSAxIDggMGMwIDEuMDk4IC0uNTY0IDIuMDI1IC0xLjE1OSAyLjgxNWwtNi44NDEgOS4xODVoOCIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number-2",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlci0zIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xMiAxMmE0IDQgMCAxIDAgLTQgLTQiIC8+PHBhdGggZD0iTTggMTZhNCA0IDAgMSAwIDQgLTQiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number-3",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlci00IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNSAyMHYtMTVsLTggMTFoMTAiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number-4",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlci01IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik04IDIwaDRhNCA0IDAgMSAwIDAgLThoLTR2LThoOCIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number-5",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlci02IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik04IDE2YTQgNCAwIDEgMCA4IDB2LTFhNCA0IDAgMSAwIC04IDAiIC8+PHBhdGggZD0iTTE2IDhhNCA0IDAgMSAwIC04IDB2OCIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number-6",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlci03IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik04IDRoOGwtNCAxNiIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number-7",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlci04IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xMiA4bS00IDBhNCA0IDAgMSAwIDggMGE0IDQgMCAxIDAgLTggMCIgLz48cGF0aCBkPSJNMTIgMTZtLTQgMGE0IDQgMCAxIDAgOCAwYTQgNCAwIDEgMCAtOCAwIiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number-8",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlci05IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xNiA4YTQgNCAwIDEgMCAtOCAwdjFhNCA0IDAgMSAwIDggMCIgLz48cGF0aCBkPSJNOCAxNmE0IDQgMCAxIDAgOCAwdi04IiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number-9",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlciIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNNCAxN3YtMTBsNyAxMHYtMTAiIC8+PHBhdGggZD0iTTE1IDE3aDUiIC8+PHBhdGggZD0iTTE3LjUgMTBtLTIuNSAwYTIuNSAzIDAgMSAwIDUgMGEyLjUgMyAwIDEgMCAtNSAwIiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "number",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51bWJlcnMiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2Utd2lkdGg9IjEuMjUiIHN0cm9rZT0iI0ZGRkZGRiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTggMTB2LTdsLTIgMiIgLz48cGF0aCBkPSJNNiAxNmEyIDIgMCAxIDEgNCAwYzAgLjU5MSAtLjYwMSAxLjQ2IC0xIDJsLTMgM2g0IiAvPjxwYXRoIGQ9Ik0xNSAxNGEyIDIgMCAxIDAgMiAtMmEyIDIgMCAxIDAgLTIgLTIiIC8+PHBhdGggZD0iTTYuNSAxMGgzIiAvPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgeG1sbnM9IiI+DQogICAgLmljb257c3Ryb2tlOiNGRkZGRkY7fQ0KICAgIC5pY29uLWZpbGxlZHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT48L3N2Zz4=;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "numbers",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51cnNlIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlLXdpZHRoPSIxLjI1IiBzdHJva2U9IiNGRkZGRkYiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggc3Ryb2tlPSJub25lIiBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIiAvPjxwYXRoIGQ9Ik0xMiA2YzIuOTQxIDAgNS42ODUgLjg0NyA4IDIuMzFsLTIgOS42OWgtMTJsLTIgLTkuNjkxYTE0LjkzIDE0LjkzIDAgMCAxIDggLTIuMzA5eiIgLz48cGF0aCBkPSJNMTAgMTJoNCIgLz48cGF0aCBkPSJNMTIgMTB2NCIgLz48c3R5bGUgdHlwZT0idGV4dC9jc3MiIHhtbG5zPSIiPg0KICAgIC5pY29ue3N0cm9rZTojRkZGRkZGO30NCiAgICAuaWNvbi1maWxsZWR7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+PC9zdmc+;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "nurse",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;2&quot; value=&quot;&quot; style=&quot;shape=image;editableCssRules=\\\\.icon(-filled)?;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;connectable=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLW51dCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS4yNSIgc3Ryb2tlPSIjRkZGRkZGIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIHN0cm9rZT0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMTkgNi44NGEyLjAwNyAyLjAwNyAwIDAgMSAxIDEuNzU0djYuNTU1YzAgLjcyOCAtLjM5NCAxLjQgLTEuMDMgMS43NTNsLTYgMy44NDRhMS45OTUgMS45OTUgMCAwIDEgLTEuOTQgMGwtNiAtMy44NDRhMi4wMDYgMi4wMDYgMCAwIDEgLTEuMDMgLTEuNzUydi02LjU1N2MwIC0uNzI4IC4zOTQgLTEuMzk5IDEuMDMgLTEuNzUzbDYgLTMuNTgyYTIuMDQ5IDIuMDQ5IDAgMCAxIDIgMGw2IDMuNTgyaC0uMDN6IiAvPjxwYXRoIGQ9Ik0xMiAxMm0tMyAwYTMgMyAwIDEgMCA2IDBhMyAzIDAgMSAwIC02IDAiIC8+PHN0eWxlIHR5cGU9InRleHQvY3NzIiB4bWxucz0iIj4NCiAgICAuaWNvbntzdHJva2U6I0ZGRkZGRjt9DQogICAgLmljb24tZmlsbGVke2ZpbGw6I0ZGRkZGRjt9DQo8L3N0eWxlPjwvc3ZnPg==;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;24&quot; height=&quot;24&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 24,
+    "h": 24,
+    "title": "nut",
+    "aspect": "fixed"
+  }
+]</mxlibrary>

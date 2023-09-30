@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/TablerUtils.sln",
+                "${workspaceFolder}/src/TablerUtils.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/TablerUtils.sln",
+                "${workspaceFolder}/src//TablerUtils.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/TablerUtils.sln"
+                "${workspaceFolder}/src//TablerUtils.sln"
             ],
             "problemMatcher": "$msCompile"
         }
