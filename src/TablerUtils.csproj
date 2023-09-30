@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ProcessorArchitecture>x64</ProcessorArchitecture>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Goblinfactory.Konsole" Version="6.2.2" />
+    <PackageReference Include="Magick.NET-Q8-OpenMP-x64" Version="13.3.0" />
+    <PackageReference Include="Newtonsoft.JSON" Version="13.0.3" />
+    <PackageReference Include="powerargs" Version="4.0.3" />
+  </ItemGroup>
+
+</Project>
