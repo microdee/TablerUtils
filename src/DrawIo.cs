@@ -80,6 +80,8 @@ public record Library(string Name, string Content)
             $"""
             <mxlibrary>{jArray.ToString(Formatting.Indented)}</mxlibrary>
             """
+            .Replace("&quot;", "\\\"")
+            .Replace(@"\\\\", @"\\")
         );
     }
 }

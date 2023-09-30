@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Xml;
 using System.Xml.Linq;
 using System.Xml.XPath;
 using PowerArgs;
@@ -24,7 +25,7 @@ public record Svg(XDocument Document)
                 attr.SetValue(styling.Color);
             }
         });
-        newDoc.Root?.Add(XElement.Parse(
+        newDoc.Root?.AddFirst(XElement.Parse(
             $$"""
             <style type="text/css">
                 .icon{stroke:{{styling.Color}};}
@@ -32,7 +33,9 @@ public record Svg(XDocument Document)
             </style>
             """
         ));
-        newDoc.XPathSelectElements("//path[@fill]").ForEach(el => {
+        newDoc.XPathSelectElements("//*").ForEach(el => {
+            if (el.Name.LocalName != "path") return;
+            
             var fillAttr = el.Attribute(XName.Get("fill"));
             if (fillAttr != null && !fillAttr.Value.Equals("none", StringComparison.InvariantCultureIgnoreCase))
             {
@@ -47,6 +50,6 @@ public record Svg(XDocument Document)
 
     public string Serialize()
     {
-        return Document.ToString(SaveOptions.DisableFormatting);
+        return Document.ToString(SaveOptions.DisableFormatting).Replace(" xmlns=\"\"", "");
     }
 }

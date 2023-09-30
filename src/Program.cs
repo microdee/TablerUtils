@@ -40,11 +40,19 @@ public class Program
         Console.WriteLine("Collecting SVG files");
         var svgFiles = Directory.EnumerateFiles(args.InputFolder, "*.svg").ToList();
         var progress = new ProgressBar(PbStyle.DoubleLine, svgFiles.Count);
+        var svgTemp = Path.Combine(args.OutputFolder, ".svgTemp");
+        
+        if (!Directory.Exists(svgTemp))
+        {
+            Directory.CreateDirectory(svgTemp);
+        }
+
         List<LibraryEntry> allEntries = svgFiles
             .Select(file =>
             {
                 progress.Next(Path.GetFileName(file));
                 var svgOut = Svg.Load(file).WithStyling(new(args.Color, args.Stroke));
+                File.WriteAllText(Path.Combine(svgTemp, Path.GetFileName(file)), svgOut.Serialize());
                 return LibraryEntry.Make(svgOut, Path.GetFileNameWithoutExtension(file));
             })
             .ToList();
@@ -54,7 +62,6 @@ public class Program
             tags[e.title].category.Equals(
                 "Brand", StringComparison.InvariantCultureIgnoreCase
             );
-
 
         var entriesSansBrands = allEntries.Where(e => !IsBrand(e));
 
